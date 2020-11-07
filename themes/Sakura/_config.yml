@@ -47,7 +47,7 @@ homePageSortType: -1
 homeArticleShown: 10
 # 背景图片 更好的修改
 bg:
-  - https://gitee.com/xinyongp/image/raw/master/20201107160751.jpg
+  - https://gitee.com/xinyongp/image/raw/master/20201107165441.jpg
 
 # 背景图片样式 空 原图效果 filter-dim 阴影 filter-grid 横条 filter-dot 点点
 bgclass: filter-dot
