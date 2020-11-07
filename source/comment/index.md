@@ -16,9 +16,10 @@ photos: https://cdn.jsdelivr.net/gh/honjun/cdn@1.4/img/banner/comment.jpg
     <h1>
     念两句诗</h1>
     <p id="poem">
-    叙别梦、扬州一觉。</p>
+    欲买桂花同载酒，终不似，少年游。</p>
     <p id="info">
-    【宋代】吴文英《夜游宫·人去西楼雁杳》</p>
+    刘过《唐多令·芦叶满汀洲》</p>
   </div>
 </div>
+
 {% endraw %}
